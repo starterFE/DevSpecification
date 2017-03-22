@@ -7,6 +7,8 @@
 <body>
 ````
 
+> 建议使用````git commit -v````方法提交
+
 ## 范例:
 ````
 fix: feat(0429留言下单): add 'graphiteWidth' option
@@ -40,4 +42,5 @@ subject是 commit 目的的简短描述，不超过50个字符。
 第一个字母小写
 结尾不加句号（.）
 
-### (4)Body 部分是对本次 commit 的详细描述，可以分成多行。
+### (4)body
+Body 部分是对本次 commit 的详细描述，可以分成多行。
