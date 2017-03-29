@@ -8,6 +8,7 @@
 ````
 
 > 建议使用````git commit -v````方法提交
+> 日常开发代码请一律提交至develop（开发）分支，后期codeReview后一起合并至master分支。
 
 ## 范例:
 ````
@@ -15,6 +16,7 @@ fix: feat(0429留言下单): add 'graphiteWidth' option
 
 提交的具体情况
 ````
+
 
 ## 说明：
 > type（必需）、scope（可选）和subject（必需）。
