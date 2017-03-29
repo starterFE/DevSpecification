@@ -7,7 +7,7 @@
 <body>
 ````
 
-> 建议使用````git commit -v````方法提交
+> 建议使用````SourceTree````进行git的提交和管理，或使用````git commit -v````方法提交
 > 日常开发代码请一律提交至develop（开发）分支，后期codeReview后一起合并至master分支。
 
 ## 范例:
